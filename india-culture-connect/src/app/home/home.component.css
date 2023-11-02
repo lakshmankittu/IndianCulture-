@@ -1,0 +1,40 @@
+/* Style the container to center the content and add some padding */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style the page title */
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Style the introductory text */
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  /* Style category and feature lists */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style links */
+  a {
+    text-decoration: none;
+    color: #007BFF; /* Change the color to your preference */
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
